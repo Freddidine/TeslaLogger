@@ -11,26 +11,26 @@ End km=Fin km
 Start mi=Début mi
 End mi=Fin mi
 kmDiff=Diffkm
-Max Range=Portée Max
+Max Range=Distance Max
 Ø Verbrauch=Ø Consommations
 Tage=Jours
 
 #Degradation.json
 Degradation=Dégradation
-Maximalreichweite [km]=Portée Max [km]
-Maximalreichweite [mi]=Portée Max [mi]
-km Stand [km]=Odiomètre [km]
-mi Stand [mi]=Odiomètre [mi]
+Maximalreichweite [km]=Distance Max [km]
+Maximalreichweite [mi]=Distance Max [mi]
+km Stand [km]=Kilométrage [km]
+mi Stand [mi]=Kilométrage [mi]
 Odometer [mi]=
-Max. Reichweite (Monatsmittel) [km]=Portée Max (mensuelle) [km]
-Max. Reichweite (Monatsmittel) [mi]=Portée Max (mensuelle) [mi]
+Max. Reichweite (Monatsmittel) [km]=Distance Max (mensuelle) [km]
+Max. Reichweite (Monatsmittel) [mi]=Distance Max (mensuelle) [mi]
 
 #Ladehistorie.json
 Ladehistorie=Historique des Recharges
 Startdatum=Date de Début
 Enddatum=Date de Fin
 geladen kWh=Chargé kWh
-km Stand=Odiomètre
+km Stand=Kilomètres
 Adresse=Adresse
 TR km Start=TR Début km
 TR km Ende=TR Fin km
@@ -63,8 +63,8 @@ SOC [%]=SOC [%]
 #Laden.json
 Laden=Mise en Charge
 Ladespannung [V]=Voltage [V]
-Reichweite [mi]=Portée [mi]
-Reichweite [km]=Portée [km]
+Reichweite [mi]=Distance [mi]
+Reichweite [km]=Distance [km]
 Leistung [kW]=Puissance [kW]
 Phasen=Phases
 Stromstärke [A]=Intensité [A]
@@ -104,7 +104,7 @@ min kW=min kW
 #Vampir Drain Monatsstatistik.json
 Zeitspanne Stunden= Time Laps
 TR mi Verlust pro Stunde=TR mi perdu par heure
-mi Stand=Odiomètre
+mi Stand=Kilométrage
 
 #Vampir Drain.json
 Vampir Drain=Consommations "Vampires"
@@ -134,8 +134,8 @@ Visited=Lieux
 #index.php
 Car Info=Information sur la Voiture
 Status=Status
-Typical Range=Portée Typique
-Odometer=Odiomètre
+Typical Range=Distance Typique
+Odometer=Kilométrage
 Car Version=Version logiciel
 Last Trip=Dernier trajet
 Duration=Durée
@@ -199,7 +199,7 @@ ScanMyTesla last received=ScanMyTesla reçu pour la dernière fois
 Tasker Token=Clé Tasker
 Tasker URL=Tasker URL
 Received Tasker Token=Clé Tasker reçue
-Show calc. 100% range=Afficher le calc. 100% portée
+Show calc. 100% range=Afficher le calc. 100% distance
 
 #geoadd.php
 Bezeichnung=Description
